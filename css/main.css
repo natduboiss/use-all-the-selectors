@@ -41,3 +41,19 @@ nav ul {
 .dfn > strong {
   color: #fff;
 }
+
+header a:last-child {
+  background-color: #719e07;
+}
+
+header a:nth-child(odd) {
+  background-color: #719e07;
+}
+
+main a:first-child {
+  background-color: #719e07;
+}
+
+main a:last-child {
+  background-color: #2694d8;
+}
