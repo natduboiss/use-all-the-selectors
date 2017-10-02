@@ -70,7 +70,7 @@ ol:last-child {
   background-color: #657ba3;
 }
 
-.types:nth-child(even)   {
+.types:nth-child(even) {
   background-color: #586e75;
 }
 
