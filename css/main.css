@@ -33,3 +33,11 @@ nav ul {
 #types {
   color: #93a1a1;
 }
+
+.wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.dfn > strong {
+  color: #fff;
+}
